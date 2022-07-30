@@ -21,7 +21,7 @@ NOTE: You cannot access or modify game files on all platforms. If you play Towns
 7. Launch Townscaper game to test new palette.
 
 ## Requests and Contributions
-I might add new palettes in the future, but I do not accept requests for new palettes/modifications.
+I might add new palettes in the future, but I do not accept requests for designing new palettes or making modifications to the existing palettes.
 
 ### If you want to share your palettes
 1. Fork this repository.
