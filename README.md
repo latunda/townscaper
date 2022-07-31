@@ -20,6 +20,14 @@ NOTE: You cannot access or modify game files on all platforms. If you play Towns
 6. Replace the `TownPalette.png` in the Textures folder with the one you just copied.
 7. Launch Townscaper game to test new palette.
 
+## Town Samples (World Samples)
+I might add more samples for most upvoted townscaper builds in r/ArtDistrict
+You can import worlds if you play on PC:
+1. Open the contents of one of the files under `TownSamples`.
+2. Launch Townscaper.
+3. Click Settings.
+4. Click Load from Clipboard. 
+
 ## Requests and Contributions
 I might add new palettes in the future, but I do not accept requests for designing new palettes or making modifications to the existing palettes.
 
@@ -30,9 +38,11 @@ I might add new palettes in the future, but I do not accept requests for designi
 4. Create a pull request.
 
 <p float="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fMS6unwoBuArvjGgiujnosEE4HIEWB9aYw&usqp=CAU" width="125"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1I9jzvTDNEuKvfInJcrG-JuFEQhJ17uPwVjACC5Cit62luIDJgvTseNj25we-W1emu0c&usqp=CAU" width="125"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQLW4Iu5WRGB2mqv59E9tCvB3Ya-6gUUo-tpNq2-OSQcu0IfVXQM526B7qiTkOHHtG08&usqp=CAU" width="125"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HvY7fU0wkMTdSIEZZbGo-FNmpZgFGPjmC9G7lJMtQL0NeV1kXO6Fq_oXwbdio3TMs84&usqp=CAU" width="125"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqFGRRY2faimnpjagoZzqmr9vq4d4EsiRGbrHxKGixU6gRkJmlIw6IioCauX1aiwg5ec&usqp=CAU" width="125"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqojIZXPVgp2U1V7-sa4GkEceqLud3V8alCAEDaJbIkG17u37hySN1ncy_lY4A6nkyFWA&usqp=CAU" width="125"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC7LhvPqZPVbZPK4X8YeBTZtPRqOpjzEK8A&usqp=CAU" width="125"/>
  </p>
