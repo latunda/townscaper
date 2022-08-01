@@ -46,4 +46,5 @@ I might add new palettes in the future, but I do not accept requests for designi
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqojIZXPVgp2U1V7-sa4GkEceqLud3V8alCAEDaJbIkG17u37hySN1ncy_lY4A6nkyFWA&usqp=CAU" width="120"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC7LhvPqZPVbZPK4X8YeBTZtPRqOpjzEK8A&usqp=CAU" width="120"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rHr0D6MSLf5wRKZ4RyYFh05P4bT09gN8-MLYKVWWZTHO-Hb8DntpfQuuK-afIg9n5gI&usqp=CAU" width="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oBgMzJhifGrq8-JtIV2oxLewaS-NTKE0aPk4QPnnaRke0Ja583KVQF9Fd5KS2otk3JQ&usqp=CAU" width="120"/>
  </p>
