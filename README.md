@@ -23,7 +23,7 @@ NOTE: You cannot access or modify game files on all platforms. If you play Towns
 ## Town Samples (World Samples)
 I might add more samples for the most upvoted townscaper builds in r/ArtDistrict. 
 You can import worlds if you play on PC:
-1. Open the contents of one of the files under `TownSamples`.
+1. Copy the raw contents of one of the files under `TownSamples`.
 2. Launch Townscaper.
 3. Click **Settings**.
 4. Click **Load from Clipboard**. 
