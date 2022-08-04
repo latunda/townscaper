@@ -50,4 +50,6 @@ I might add new palettes in the future, but I do not accept requests for designi
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oBgMzJhifGrq8-JtIV2oxLewaS-NTKE0aPk4QPnnaRke0Ja583KVQF9Fd5KS2otk3JQ&usqp=CAU" width="120"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UcOHooUIAkDEpHPxVlrI-KQY7O02DJNm1BAbwvDz0u78Zic_4Hp4Xd6QBNUT6oRdS9Q&usqp=CAU" width="192"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU4NgGWIardMTVvNRaXA30Vi-fB03m90iA9ZgzBYYJNe5RXG_O5mg1L3S2WDU5N_OzmV4&usqp=CAU" width="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaw6FzK1DjUP-YOm3IpxyzQtoAfshdeMUpWfLQIWh4r3E-0PX_O1Vs5ums_TF3_nIYfk&usqp=CAU" width="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70nUHWqCadVhrGqhDI4bfb1q6OeUq2KUDUjTux1dtesZZDhCsmpnPike4OB4smwNAF1U&usqp=CAU" width="120" />
  </p>
